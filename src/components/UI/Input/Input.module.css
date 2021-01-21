@@ -23,6 +23,7 @@
     font: inherit;
     padding: 6px 10px;
     box-sizing: border-box;
+    transition: all 500ms ease-in-out;
 
 }
 
